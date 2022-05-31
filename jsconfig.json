@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}
+
+// this file lets you do absolute imports instead of having to specify the path every time.
